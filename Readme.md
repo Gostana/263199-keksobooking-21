@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анна Гостева](https://up.htmlacademy.ru/javascript/21/user/263199).
-* Наставник: `Неизвестно`.
+* Наставник:[Артик Ман](https://htmlacademy.ru/profile/id1445657).
 
 ---
 
